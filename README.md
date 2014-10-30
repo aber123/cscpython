@@ -1,4 +1,5 @@
 cscpython
 =========
-
-Python coding
+x=5
+print x
+#Python coding
